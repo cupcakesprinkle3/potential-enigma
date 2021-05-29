@@ -33,6 +33,90 @@ const promptUser = () => {
                 }
             }
         },
+        {
+            type: 'input',
+            name: 'installation',
+            message: 'Provide step-by-step instructions on how to get the environment running. (Required)',
+            validate: installationInput => {
+                if (installationInput) {
+                    return true;
+                } else {
+                    console.log('Please enter your installation instructions!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'usage',
+            message: 'Provide usage information, including instructions and examples. (Required)',
+            validate: usageInput => {
+                if (usageInput) {
+                    return true;
+                } else {
+                    console.log('Please enter usage instructions!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'contributing',
+            message: 'Please provide guidelines for how others can contribute to this project. (Required)',
+            validate: contributingInput => {
+                if (contributingInput) {
+                    return true;
+                } else {
+                    console.log('Please enter guidelines on how to contribute!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'tests',
+            message: 'Please provide tests you wrote for your app and examples on how to run them. (Required)',
+            validate: testsInput => {
+                if (testsInput) {
+                    return true;
+                } else {
+                    console.log('Please enter test instructions!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'list',
+            name: 'licenses',
+            message: 'Choose the license for your application (Choose one only; use arrow keys)',
+            choices: ['Apache 2.0', 'Boost 1.0', 'GNU GPLv3', 'GNU GPLv2', 'GNU AGPLv3', 'GNU LGPLv3', 'ISC', 'MIT', 'Mozilla 2.0', 'The Unlicense']
+        },
+        {
+            type: 'input',
+            name: 'github',
+            message: 'What is your GitHub username? (Required)',
+            validate: githubInput => {
+                if (githubInput) {
+                    return true;
+                } else {
+                    console.log('Please enter your GitHub username!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email address? (Required)',
+            validate: emailInput => {
+                if (emailInput) {
+                    return true;
+                } else {
+                    console.log('Please enter your email address!');
+                    return false;
+                }
+            }
+        },
         //   {
         //     type: 'confirm',
         //     name: 'confirmAbout',

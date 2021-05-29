@@ -1,1 +1,1 @@
-{"title":"This title","description":"description"}
+{"title":"title 1","description":"this is my descripotion","installation":"step 1 is this, step 2 is that","usage":"usage informaiton includes the following lorem ipsum","contributing":"guidelines are to get going!","tests":"tests here you go","licenses":"GNU GPLv3","github":"cupcakesprinkle3","email":"mlbrinich@gmail.com"}
