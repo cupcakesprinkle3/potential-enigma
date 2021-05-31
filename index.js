@@ -1,12 +1,12 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // TODO: Create an array of questions for user input
-const questions = [];
 
 const promptUser = () => {
-    return inquirer.prompt([
+    inquirer.prompt([
         {
             type: 'input',
             name: 'title',
@@ -87,7 +87,7 @@ const promptUser = () => {
         },
         {
             type: 'list',
-            name: 'licenses',
+            name: 'license',
             message: 'Choose the license for your application (Choose one only; use arrow keys)',
             choices: ['Apache 2.0', 'Boost 1.0', 'GNU GPLv3', 'GNU GPLv2', 'GNU AGPLv3', 'GNU LGPLv3', 'ISC', 'MIT', 'Mozilla 2.0', 'The Unlicense']
         },
@@ -117,40 +117,27 @@ const promptUser = () => {
                 }
             }
         },
-        //   {
-        //     type: 'confirm',
-        //     name: 'confirmAbout',
-        //     message: 'Would you like to enter some information about yourself for an "About" section?',
-        //     default: true
-        //   },
-        //   {
-        //     type: 'input',
-        //     name: 'about',
-        //     message: 'Provide some information about yourself:',
-        //     when: ({ confirmAbout }) => confirmAbout
-        //   }
     ])
-        .then(projectData => {
-            console.log(projectData);
-            writeToFile("README.md", projectData);
+        .then(readmeData => {
+            var pageMD = generateMarkdown(readmeData)
+            writeToFile('README.md', pageMD)
+        })
+        .catch(err => {
+            console.log(err);
         });
-
 };
 
 
 // TODO: Create a function to write README file
-writeToFile = (fileName, data) => {
-    fs.writeFile(fileName, JSON.stringify(data), err => {
+function writeToFile(file, data) {
+    fs.writeFile(file, data, err => {
         if (err) {
             reject(err);
             return;
         }
-
+        console.log('Readme generated')
     });
 }
-
-// TODO: Create a function to initialize app
-// function init() {}
 
 // Function call to initialize app
 // init();
