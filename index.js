@@ -120,7 +120,7 @@ const promptUser = () => {
     ])
         .then(readmeData => {
             var pageMD = generateMarkdown(readmeData)
-            writeToFile('README.md', pageMD)
+            writeToFile('./utils/README.md', pageMD)
         })
         .catch(err => {
             console.log(err);
