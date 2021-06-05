@@ -4,7 +4,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [DemoVid](#demo)
+  * [Demo video](#demo)
   * [Questions](#questions)
   ## Installation
   To install this project, clone the GitHub repo to your local environment.
