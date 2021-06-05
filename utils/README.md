@@ -1,7 +1,7 @@
-# afjkdsl;
-  https://img.shields.io/badge/License-Boost1.0-COLOR
+# title
+  ![badge](https://img.shields.io/badge/License-Boost1.0-COLOR)  
   ## Description
-  afjdsk;
+  fdjkal;
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,16 +10,16 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  fjkasdl;
+  fjaks;
   ## Usage
-  fjkd;as
+  afjdks;
   ## License
   Boost1.0
   ## Contributing
-  jafkld;s
+  fjkdsla;
   ## Tests
-  a;dkl
+  akdjfl;s
   ## Questions?
-  ### Here's how to reach me with additional questions:
-  GitHub: <a href="https://github.com/fjkd;a">fjkd;a</a>
-  Email: <a href="mailto:afjdk;@gmail.com">afjdk;@gmail.com</a>
+  ### Here's how to reach me/us with additional questions:
+  GitHub: <a href="https://github.com/jekl">jekl</a>
+  Email: <a href="mailto:akld;@gmial.com">akld;@gmial.com</a>

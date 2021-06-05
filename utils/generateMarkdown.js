@@ -21,7 +21,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(readmeData) {
 
   return `# ${readmeData.title}
-  https://img.shields.io/badge/License-${readmeData.license}-COLOR
+  ![badge](https://img.shields.io/badge/License-${readmeData.license}-COLOR)  
   ## Description
   ${readmeData.description}
   ## Table of Contents
@@ -42,7 +42,7 @@ function generateMarkdown(readmeData) {
   ## Tests
   ${readmeData.tests}
   ## Questions?
-  ### Here's how to reach me with additional questions:
+  ### Here's how to reach me/us with additional questions:
   GitHub: <a href="https://github.com/${readmeData.github}">${readmeData.github}</a>
   Email: <a href="mailto:${readmeData.email}">${readmeData.email}</a>
 `;
