@@ -21,6 +21,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(readmeData) {
 
   return `# ${readmeData.title}
+  https://img.shields.io/badge/License-${readmeData.license}-COLOR
   ## Description
   ${readmeData.description}
   ## Table of Contents

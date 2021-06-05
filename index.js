@@ -89,7 +89,7 @@ const promptUser = () => {
             type: 'list',
             name: 'license',
             message: 'Choose the license for your application (Choose one only; use arrow keys)',
-            choices: ['Apache 2.0', 'Boost 1.0', 'GNU GPLv3', 'GNU GPLv2', 'GNU AGPLv3', 'GNU LGPLv3', 'ISC', 'MIT', 'Mozilla 2.0', 'The Unlicense']
+            choices: ['Apache2.0', 'Boost1.0', 'GNUGPLv3', 'GNUGPLv2', 'GNUAGPLv3', 'GNULGPLv3', 'ISC', 'MIT', 'Mozilla2.0', 'TheUnlicense']
         },
         {
             type: 'input',
