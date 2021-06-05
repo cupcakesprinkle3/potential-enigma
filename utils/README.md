@@ -1,7 +1,7 @@
-# fjdkasl;fjdksla;
-  ![badge](https://img.shields.io/badge/License-GNUGPLv2-COLOR)  
+# Pro Readme Generator
+  ![badge](https://img.shields.io/badge/License-Apache2.0-COLOR)  
   ## Description
-  fjdksal;fjdksla;
+  This project is intended to help full stack developers create professional readmes from the command line using node.js
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,16 +10,16 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  ffjdks;lafjdksal;f
+  Clone the github repo and from the directory where you cloned the repo, intiate the readme app by entering node index.js from the command line. Then follow the prompts!
   ## Usage
-  jafkld;jaskfld;sa
+  Use this when you need to create a professional readme from the command line.
   ## License
-  This project is covered under this selected license: **GNUGPLv2**. For more information on this and other licenses, please visit: https://choosealicense.com/licenses/
+  This project is covered under this selected license: **Apache2.0**. For more information on this and other licenses, please visit: https://choosealicense.com/licenses/
   ## Contributing
-  fjdklsa;fjkdsal;
+  You can contribute to this project, following standard code of professional conduct, on GitHub
   ## Tests
-  ajfkdsl;a
+  The tests you can find in the tests folder and using standard test suites, follow the tests
   ## Questions?
   ### Here's how to reach me/us with additional questions:
-  GitHub: <a href="https://github.com/fjkdsal;">fjkdsal;</a>
-  Email: <a href="mailto:fjdka;@gmail.com">fjdka;@gmail.com</a>
+  GitHub: <a href="https://github.com/cupcakesprinkle3">cupcakesprinkle3</a>
+  Email: <a href="mailto:cupcakes@gmail.com">cupcakes@gmail.com</a>
