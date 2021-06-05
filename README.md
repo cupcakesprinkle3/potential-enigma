@@ -1,23 +1,17 @@
-# asd
+# Professional Readme Generator
   ## Description
-  asd
+  This project is part of a coding bootcamp where we create an app to take user input at the command line to create a professional readme file. 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
+  * [DemoVid](#demo)
   * [Questions](#questions)
   ## Installation
-  asd
+  To install this project, clone the GitHub repo to your local environment.
   ## Usage
-  asd
-  ## License
-  Apache 2.0
-  ## Contributing
-  asd
-  ## Tests
-  asd
+  You can use this app to create a professional readme from the command line, all you will need is node.js 
+  ## Demo
+  Watch a demonstration video on how to use the app here on Screencastify
   ## Questions?
   ### Here's how to reach me with additional questions:
   GitHub: <a href="https://github.com/asd">asd</a>
