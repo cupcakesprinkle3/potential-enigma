@@ -1,7 +1,7 @@
-# fdjkasl;fjdksla;
+# fjdkasl;fjdksla;
   ![badge](https://img.shields.io/badge/License-GNUGPLv2-COLOR)  
   ## Description
-  afjkdls;ajfdksla;
+  fjdksal;fjdksla;
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,16 +10,16 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  fjdk;slafjdksal;
+  ffjdks;lafjdksal;f
   ## Usage
-  afjkdls;ajfdksla;
+  jafkld;jaskfld;sa
   ## License
-  This project is covered under this selected license: GNUGPLv2
+  This project is covered under this selected license: **GNUGPLv2**. For more information on this and other licenses, please visit: https://choosealicense.com/licenses/
   ## Contributing
-  jfkdls;ajfdklsa;
+  fjdklsa;fjkdsal;
   ## Tests
-  fjdsa;fjdksla;
+  ajfkdsl;a
   ## Questions?
   ### Here's how to reach me/us with additional questions:
-  GitHub: <a href="https://github.com/fhdjksal">fhdjksal</a>
-  Email: <a href="mailto:jfdksl;a@gmail.com">jfdksl;a@gmail.com</a>
+  GitHub: <a href="https://github.com/fjkdsal;">fjkdsal;</a>
+  Email: <a href="mailto:fjdka;@gmail.com">fjdka;@gmail.com</a>
