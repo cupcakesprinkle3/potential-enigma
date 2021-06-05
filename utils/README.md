@@ -1,7 +1,7 @@
-# title
-  ![badge](https://img.shields.io/badge/License-Boost1.0-COLOR)  
+# fdjkasl;fjdksla;
+  ![badge](https://img.shields.io/badge/License-GNUGPLv2-COLOR)  
   ## Description
-  fdjkal;
+  afjkdls;ajfdksla;
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,16 +10,16 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  fjaks;
+  fjdk;slafjdksal;
   ## Usage
-  afjdks;
+  afjkdls;ajfdksla;
   ## License
-  Boost1.0
+  This project is covered under this selected license: GNUGPLv2
   ## Contributing
-  fjkdsla;
+  jfkdls;ajfdklsa;
   ## Tests
-  akdjfl;s
+  fjdsa;fjdksla;
   ## Questions?
   ### Here's how to reach me/us with additional questions:
-  GitHub: <a href="https://github.com/jekl">jekl</a>
-  Email: <a href="mailto:akld;@gmial.com">akld;@gmial.com</a>
+  GitHub: <a href="https://github.com/fhdjksal">fhdjksal</a>
+  Email: <a href="mailto:jfdksl;a@gmail.com">jfdksl;a@gmail.com</a>

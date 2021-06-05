@@ -36,7 +36,7 @@ function generateMarkdown(readmeData) {
   ## Usage
   ${readmeData.usage}
   ## License
-  ${readmeData.license}
+  This project is covered under this selected license: ${readmeData.license}
   ## Contributing
   ${readmeData.contributing}
   ## Tests
