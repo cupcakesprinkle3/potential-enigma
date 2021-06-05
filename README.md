@@ -6,4 +6,4 @@
   ## Usage
   You can use this app to create a professional readme from the command line, all you will need is node.js 
   ## Demo
-  Watch a demonstration video on how to use the app [here on Screencastify](https://drive.google.com/file/d/1GmG3Nx7ZMZWb8a7IMXyAGzgWfsPQZkKv/view?usp=sharing)
+  Watch a demonstration video on how to use the app [here on Screencastify](https://drive.google.com/file/d/1GmG3Nx7ZMZWb8a7IMXyAGzgWfsPQZkKv/view?usp=sharing). And you can see the output of using the app in a sample readme [here on GitHub](https://github.com/cupcakesprinkle3/pro-readme-generator/blob/main/utils/README.md).
